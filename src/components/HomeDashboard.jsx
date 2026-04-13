@@ -105,7 +105,7 @@ const HomeDashboard = () => {
                 <div className="order-id">{order.id}</div>
                 <div className="order-time">{order.time}</div>
                 <div className="order-items">{order.items} Items</div>
-                <div className="order-total">Rs.${order.total.toFixed(2)}</div>
+                <div className="order-total">Rs.{order.total.toFixed(2)}</div>
                 <div className={`order-status Rs.${order.status.toLowerCase()}`}>
                   {order.status}
                 </div>
