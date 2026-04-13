@@ -64,6 +64,17 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
+##👨‍💻 Author
+Krishan Chamika
+
+GitHub: @krishan-gif
+
 ## 📝 License
 
 This project is free to use and modify for personal or commercial restaurant uses.
+<img width="1920" height="1020" alt="Screenshot 2026-04-13 165925" src="https://github.com/user-attachments/assets/5a0a8f69-eaf8-4354-a367-a6d93945c2c3" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-13 165913" src="https://github.com/user-attachments/assets/4ffff2a0-658a-4ee7-b22c-b8598a1455e0" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-13 165904" src="https://github.com/user-attachments/assets/bc6af74a-7724-45ed-b91a-db2b9bc12ecf" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-13 165855" src="https://github.com/user-attachments/assets/14dcba71-bff8-48dc-9264-f5db602f2f08" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-13 165708" src="https://github.com/user-attachments/assets/24d80147-da8a-4834-8917-c35b4a96cae1" />
+
